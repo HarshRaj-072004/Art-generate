@@ -34,7 +34,7 @@ This project implements an artistic style transfer algorithm that blends the con
 
 -Matplotlib
 
-📸 How to Use
+How to Use
 
 -Provide paths to your content image and style image.
 
@@ -45,7 +45,7 @@ This project implements an artistic style transfer algorithm that blends the con
 -Sit back and let the magic happen!
 
 
- Contact Information
+Contact Information
 
 Name: Harsh Raj
 
