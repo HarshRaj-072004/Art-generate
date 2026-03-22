@@ -2,25 +2,25 @@ Neural Style Transfer
 
 Created by: Harsh Raj
 
-📚 Project Description
+ Project Description
 
 This project implements an artistic style transfer algorithm that blends the content of one image with the artistic style of another. Inspired by the groundbreaking paper "A Neural Algorithm of Artistic Style" by Gatys et al., this project leverages a VGG19 pre-trained model to achieve high-quality results.
 
-🚀 Key Features
+ Key Features
 
-🎨 Artistic Style Transfer: Combine content and style images seamlessly.
+ Artistic Style Transfer: Combine content and style images seamlessly.
 
-🖥️ Interactive Command-Line Interface: User-friendly input prompts.
+ Interactive Command-Line Interface: User-friendly input prompts.
 
-📊 Real-Time Progress Tracking: Monitor optimization updates.
+ Real-Time Progress Tracking: Monitor optimization updates.
 
-🛠️ Custom Loss Function: Fine-tuned for balanced style-content representation.
+ Custom Loss Function: Fine-tuned for balanced style-content representation.
 
-📷 Support for Multiple Image Formats: Works with PNG, JPG, and JPEG.
+ Support for Multiple Image Formats: Works with PNG, JPG, and JPEG.
 
-📊 Side-by-Side Comparison: Visualize content, style, and generated images together.
+ Side-by-Side Comparison: Visualize content, style, and generated images together.
 
-🛠️ Technologies Used
+ Technologies Used
 
 -Python
 
@@ -45,7 +45,7 @@ This project implements an artistic style transfer algorithm that blends the con
 -Sit back and let the magic happen!
 
 
-📬 Contact Information
+ Contact Information
 
 Name: Harsh Raj
 
